@@ -1,0 +1,86 @@
+
+/* Table styling */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+/* Collapsible tables */
+.table-banner {
+  display: flex;
+  align-items: center; /* Ensures vertical alignment of items */
+  justify-content: space-between; /* Ensures proper spacing */
+  background-color: #d0dff0;
+  border: 1px solid #3333331a;
+  padding: 8px 10px;
+  border-radius: 5px;
+  font-family: Lato; 
+  color: #474646;
+  cursor: pointer;
+  width: 100%;
+  line-height: 14px;
+}
+.table-collapsible-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  background-color: #d0dff02c;
+  border: 1px solid #3333331a;
+  border-top: none;
+  padding: 0 0;
+  border-radius: 0 0 5px 5px;
+  margin-bottom: 10px; /* Adds spacing below the section */
+  width: 100%;
+  display: block;
+  overflow-x: auto; 
+}
+
+.table-collapsible-content table {
+  background-color: #ffffff;
+}
+
+.table-collapsible-content b {
+  color: #0077cc;
+}
+.table-collapsible-content.open {
+  max-height: none;
+}
+.table-collapsible-content p {
+  display: inline-block !important;
+  padding: 5px 10px !important;
+  font-size: 0.9em !important;
+  line-height: 1.3 !important;
+  margin-top: 0.1em !important;
+  margin-bottom: 0 !important;
+}
+
+
+/* Table with no vertical lines */
+.table-no-vertical-lines {
+  border-collapse: collapse;
+  width: 100%;
+}
+.table-no-vertical-lines th,
+.table-no-vertical-lines td {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-left: none !important;
+  border-right: none !important;
+  padding: 8px;
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.6) !important; 
+
+}
+.table-no-vertical-lines th {
+  background-color: rgba(255, 255, 255, 0.6) !important;
+}
+
+
+
