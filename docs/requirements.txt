@@ -3,4 +3,3 @@ pymdown-extensions
 mkdocs-macros-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-markdownextradata-plugin
-mkdocs-myst-plugin
