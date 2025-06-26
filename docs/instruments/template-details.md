@@ -1,5 +1,13 @@
 # Template For Workgroups
 
+
+We found support in prior work[^smith2020].
+
+[^smith2020]: Smith, J. (2020). *Exploring Brain Imaging*. NeuroImage, 50, 123–134.
+
+
+
+
 This document serves as a guide for completing the documentation for each study instrument to be included on the HBCD Release Docs site under Study Instruments. The purpose of the README is to ensure clarity and consistency for users accessing the data worldwide. 
 
 Please fill out all sections below. If an item is not applicable, please delete it or indicate "N/A".

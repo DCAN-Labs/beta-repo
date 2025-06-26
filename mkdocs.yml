@@ -15,6 +15,7 @@ markdown_extensions:
   - toc:
       permalink: '🔗'  
   - pymdownx.arithmatex
+  - myst_parser
   
 extra_javascript:
   - js/extra.js
