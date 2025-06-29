@@ -3,6 +3,7 @@
 ## Internal Notes:
 - *Relevant Documents: Study Navigator Contact Form Guide (in Ripple/Confluence). The SN Contact Form is also in Ripple in the Birth Parent and Child Profile.* - is this something we will want to make available to users as well?
 - what is table name?
+- is this organized appropriately, or should it be in its own section outside of demo & visit info?
 
 **Full Name**: Study Navigator Contact Form           
 **Acronym**: SN Contact Form            
