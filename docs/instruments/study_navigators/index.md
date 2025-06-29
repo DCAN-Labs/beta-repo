@@ -5,6 +5,8 @@
 - what is table name?
 - is this organized appropriately, or should it be in its own section outside of demo & visit info?
 
+-----------------
+
 **Full Name**: Study Navigator Contact Form           
 **Acronym**: SN Contact Form            
 **Table Name**: `XXXXX`
@@ -30,7 +32,17 @@
 
 ## Instrument Details
 
-The Study Navigator Contact Form contains information pertaining to visit details when participant support is provided during a study contact and documents the scope of each SN contact. It includes visit details (time, date, place, scheduling details, etc.), topics, and actions taken.
+The HBCD Study aims to recruit over 7,000 caregiver-child dyads across the U.S., with 25% of the sample comprising children with in utero substance exposure. This design supports improved understanding of how prenatal substance exposure affects fetal and child development. However, mistrust among pregnant individuals who use substances can present significant barriers to recruitment and retention.
+
+To address this, the HBCD Study employs a novel approach: integrating Study Navigators, support professionals such as certified peer support specialists, into the research team. This model enhances recruitment, engagement, and retention, particularly among marginalized and underrepresented populations. The inclusion of Study Navigators represents a paradigm shift in longitudinal research, placing greater emphasis on participant support and human-centered engagement.
+
+For details on the conceptual framework, core skills, training, and team integration of support professionals, see [Hilliard et al. 2025](https://doi.org/10.1016/j.dcn.2024.101495).
+
+The **Study Navigator Contact Form** included in the data release captures visit-specific information when participant support is provided. It documents:
+
+- Visit details (date, time, location, scheduling, etc.)
+- Support topics discussed
+- Actions taken during each contact
 
 ## References
 
