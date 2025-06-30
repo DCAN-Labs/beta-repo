@@ -52,3 +52,10 @@ nav:
     - Template page: instruments/template.md
     - Demographics & Visit Information:
         - Study Navigators Contact Form: instruments/study_navigators/index.md
+    - Behavior, Biology, & Environment:
+        - Behavior & Caregiver-Child Interaction: 
+            - Behavior/Inhibition Task: instruments/bcgi/behinh.md
+            - CHAOS: instruments/bcgi/chaos.md
+            - ECGB VSF+BI: instruments/bcgi/ecgb.md
+        - Social & Environmental Determinants:
+            - Vancouver Index: instruments/SED/vi.md
