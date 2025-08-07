@@ -17,11 +17,12 @@ th, td {
   display: flex;
   align-items: center; /* Ensures vertical alignment of items */
   justify-content: space-between; /* Ensures proper spacing */
-  background-color: #d0dff0;
+  background-color: #f0f4ff;
   border: 1px solid #3333331a;
   padding: 8px 10px;
   border-radius: 5px;
   font-family: Lato; 
+  font-weight: bold;
   color: #474646;
   cursor: pointer;
   width: 100%;
@@ -47,7 +48,7 @@ th, td {
 }
 
 .table-collapsible-content b {
-  color: #0077cc;
+  color: #6300d3;
 }
 .table-collapsible-content.open {
   max-height: none;
@@ -57,10 +58,36 @@ th, td {
   padding: 5px 10px !important;
   font-size: 0.9em !important;
   line-height: 1.3 !important;
-  margin-top: 0.1em !important;
+  margin-top: 0.4em !important;
   margin-bottom: 0 !important;
 }
 
+.table-collapsible-content ul {
+  margin-top: 1rem;
+  padding-left: 0.4rem;
+  line-height: 1;
+  font-size: 0.9em !important;
+}
+.table-collapsible-content li {
+  margin-bottom: 0.4rem;
+  line-height: 1;
+  font-size: 1em !important;
+}
+.table-collapsible-content ul ul {
+  margin-top: 0.1rem;
+  line-height: 1;
+  font-size: 1em !important;
+}
+.table-collapsible-content ul ul li {
+  margin-bottom: 0.1rem;
+  line-height: 1;
+  font-size: 1em !important;
+}
+.table-collapsible-content li b {
+  color: #6300d3;
+  line-height: 1;
+  font-size: 1em !important;
+}
 
 /* Table with no vertical lines */
 .table-no-vertical-lines {

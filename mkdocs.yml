@@ -57,5 +57,6 @@ nav:
             - Behavior/Inhibition Task: instruments/bcgi/behinh.md
             - CHAOS: instruments/bcgi/chaos.md
             - ECGB VSF+BI: instruments/bcgi/ecgb.md
+            - HOME-21: instruments/bcgi/home21.md
         - Social & Environmental Determinants:
             - Vancouver Index: instruments/SED/vi.md
