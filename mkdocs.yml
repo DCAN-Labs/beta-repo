@@ -59,4 +59,8 @@ nav:
             - ECGB VSF+BI: instruments/bcgi/ecgb.md
             - HOME-21: instruments/bcgi/home21.md
         - Social & Environmental Determinants:
+            - Current Employment: instruments/SED/current-employment.md
+            - Household Chemical Exposures: instruments/SED/household-chemical-exposures.md
+            - Lead Exposures: instruments/SED/lead-exposures.md
+            - Second Hand Smoke exposure: instruments/SED/second-hand-smoke-exposure.md
             - Vancouver Index: instruments/SED/vi.md
